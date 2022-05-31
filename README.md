@@ -1,2 +1,4 @@
 # homeplatform.github.io
-github pages for home platform
+home platform will open someday
+Instead,
+go to humnakim.github.io
